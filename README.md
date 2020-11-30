@@ -11,12 +11,16 @@ Comandos utilizados:
 
 ```vagrant status```
 
-```vagrant destroy```
+```vagrant destroy [-f]```
 
 ```vagrant reload```
 
 ```vagrant ssh```
 
 ```vagrant ssh-config```
+
+```vagrant box update```
+
+```vagrant provision```
 
 [vagrant-course]: https://www.alura.com.br/curso-online-vagrant-gerenciando-maquinas-virtuais

@@ -1,0 +1,1 @@
+Chaves SSH geradas com comando ```ssh-keygen -t rsa``` e chave pública appendada em arquivo ~/.ssh/authorized_hosts de máquina virtual, permitindo login via SSH com chave privada.
