@@ -5,22 +5,22 @@ Comandos utilizados:
 
 ```vagrant init <box>```
 
-```vagrant up```
+```vagrant up [<machine>]```
 
-```vagrant halt```
+```vagrant halt [<machine>]```
 
-```vagrant status```
+```vagrant status [<machine>]```
 
-```vagrant destroy [-f]```
+```vagrant destroy [-f] [<machine>]```
 
 ```vagrant reload```
 
-```vagrant ssh```
+```vagrant ssh [<machine>]```
 
 ```vagrant ssh-config```
 
 ```vagrant box update```
 
-```vagrant provision```
+```vagrant provision [<machine>]```
 
 [vagrant-course]: https://www.alura.com.br/curso-online-vagrant-gerenciando-maquinas-virtuais
