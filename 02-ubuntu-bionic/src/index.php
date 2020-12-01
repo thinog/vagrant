@@ -1,7 +1,7 @@
 <?php
 echo "O Puppet funcionou, amigo! <br> Conectando com banco de dados... <br>";
 
-$server = "192.168.15.25";
+$server = "192.168.15.27";
 $user = "mysqluser";
 $pass = "pass";
 

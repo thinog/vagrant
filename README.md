@@ -15,6 +15,8 @@ Comandos utilizados:
 
 ```vagrant reload```
 
+```vagrant validate```
+
 ```vagrant ssh [<machine>]```
 
 ```vagrant ssh-config```
