@@ -21,8 +21,10 @@ Comandos utilizados:
 
 ```vagrant ssh-config```
 
-```vagrant box update```
+```vagrant box [<option>] [<option-args>]```
 
 ```vagrant provision [<machine>]```
+
+```vagrant global-status [--prune]```
 
 [vagrant-course]: https://www.alura.com.br/curso-online-vagrant-gerenciando-maquinas-virtuais
